@@ -1,0 +1,7 @@
+venv/
+.env
+__pycache__/
+*.pyc
+.DS_Storebackend/ca.pem
+backend/ca.pem
+backend/ca.pem
